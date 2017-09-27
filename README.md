@@ -1,7 +1,7 @@
 # Practica con GitHub 
 Es creado de forma remota desde el PuTTY mediante SSH
 Tercer cambio del dia :) 
-Ya huele a desayuno
+Yo soy el que esta a cargo >:v
   __^__                                      __^__
  ( ___ )------------------------------------( ___ )
   | / |                                      | \ |
